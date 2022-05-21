@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Miranda, 25 years old, FullStack Developer.</h1>
 <h3 align="center">Currently living in Amapá, Brazil.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Js** and **Node Js**
 
 - 📫 How to reach me **felipemirandahoje@gmail.com**
 
