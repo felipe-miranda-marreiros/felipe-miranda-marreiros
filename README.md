@@ -2,12 +2,6 @@
 <h4>Felipe Miranda Marreiros, 25 anos, desenvolvedor front-end júnior.</h4>
 <p>Estudando front-end e aperfeiçoando React e TypeScript. Minha stack favorita é Chakra UI ❤, React e React Query ou RTK com boas práticas em layout responsivo e fluído.</p>
 
-<h3>TODO</h3>
-
-- Aprender Next.js;
-- Aprender GraphQL;
-- Testes unitários.
-
 <h3 align="left">Stack</h3>
 
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
