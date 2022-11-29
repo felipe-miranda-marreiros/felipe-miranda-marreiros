@@ -6,7 +6,7 @@
 
 - Aprender Next.js;
 - Aprender GraphQL;
-- Testes unitários .
+- Testes unitários.
 
 <h3 align="left">Stack</h3>
 
