@@ -1,6 +1,6 @@
 <h3>Sobre mim</h3>
 <h4>Felipe Miranda Marreiros, 25 anos, desenvolvedor front-end júnior.</h4>
-<p>Estudando front-end e aperfeiçoando React e TypeScript. Minha stack favorita é Chakra UI ❤, React e React Query ou RTK.
+<p>Estudando front-end e aperfeiçoando React e TypeScript. Minha stack favorita é Chakra UI, React e React Query ou RTK.
 
 <h3 align="left">Stack</h3>
 
